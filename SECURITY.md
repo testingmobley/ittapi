@@ -4,7 +4,7 @@
  
 Please report security issues or vulnerabilities to Intel PSIRT at secure@intel.com
  
-More information on how to report can be found at [Reporting Vulnerabilities Page].
+More information on how to report can be found at [Reporting Vulnerabilities Page]. .
 
 For more information on how Intel® works to resolve security issues, see
 [Vulnerability Handling Guidelines].
